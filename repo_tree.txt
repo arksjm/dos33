@@ -1,0 +1,13 @@
+.
+├── commit_hash.txt
+├── new_file.txt
+├── README.md
+├── repo_tree.txt
+└── wild_animals
+    ├── index.html
+    └── pictures
+        ├── elephant.jpg
+        ├── giraffe.jpg
+        └── paw_print.jpg
+
+3 directories, 8 files
